@@ -1,1 +1,1 @@
-# Puthon-training2
+# Training Puthon-training2
